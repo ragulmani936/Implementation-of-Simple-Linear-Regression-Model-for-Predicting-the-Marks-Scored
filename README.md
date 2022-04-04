@@ -63,8 +63,9 @@ plt.ylabel("Scores")
 plt.show()
 ~~~
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
+![output](https://github.com/ragulmani936/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%20(3).png)
+![output](https://github.com/ragulmani936/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%20(4).png)
+![output](https://github.com/ragulmani936/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%20(5).png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
