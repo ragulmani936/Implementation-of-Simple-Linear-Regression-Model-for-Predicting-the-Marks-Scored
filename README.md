@@ -34,6 +34,7 @@ Developed by: Ragul M
 RegisterNumber:212221230080  
 */
 ```
+~~~
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -60,7 +61,7 @@ plt.title("h vs s(Testing set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-
+~~~
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 
