@@ -63,7 +63,7 @@ plt.ylabel("Scores")
 plt.show()
 ~~~
 ## Output:
-![pic 1]()
+![pic 1](https://github.com/ragulmani936/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/pic%201.png)
 
 
 ![pic 2]()
